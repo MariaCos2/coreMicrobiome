@@ -7,3 +7,4 @@ coreMicrobiome is a web-based R Shiny graphical user interface (GUI) with a R pa
 To install the package, download (preferrably the latest version of) the package from this site to a local drive and install and load the package in R:
     
     devtools::install_github('lindan1128/coreMicrobiome', force = TRUE)
+    library(coreMicrobiome)
